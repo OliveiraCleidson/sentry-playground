@@ -1,0 +1,1 @@
+export const SERASA_ADAPTER = 'SERASA_ADAPTER';
